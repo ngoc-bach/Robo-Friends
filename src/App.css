@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Lazer Game Zone Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Lazer Game Zone Regular'), url('Lazer Game Zone.woff') format('woff');
+  }
+
+  h1 {
+    font-family: 'Lazer Game Zone Regular';
+    font-weight: 300;
+    color: #ffdfdf;
+  }
